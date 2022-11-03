@@ -7,3 +7,7 @@ declare module 'gatsby-plugin-google-analytics' {
     trackCustomEvent: (...params: any) => void,
   };
 }
+
+
+
+
